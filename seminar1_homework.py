@@ -83,7 +83,8 @@ x_coordinate2, y_coordinate2 = map(int, input().split(' '))
 distance = float(((x_coordinate2 - x_coordinate1)**2 + (y_coordinate2 - y_coordinate1)**2)**0.5)
 print(int(distance * 100)/100)
 
-
+#GIT_HUB
+#https://github.com/TikhonF/seminar1_homework/blob/main/seminar1_homework.py
      
        
               
